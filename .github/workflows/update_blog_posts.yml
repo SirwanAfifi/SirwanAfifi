@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v3
+    - name: Check out repository code
+      uses: actions/checkout@v3
 
-      - name: Run the script for fetching latest blog posts
-        shell: pwsh
-        run: |
-          . ./.github/scripts/Get-Posts.ps1
+    - name: Run the script for fetching latest blog posts
+      shell: pwsh
+      run: |
+        . ./.github/scripts/Get-Posts.ps1
