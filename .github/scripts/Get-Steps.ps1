@@ -3,6 +3,7 @@ Function Set-Steps {
         [Parameter(Mandatory = $true, ValueFromPipeline = $true)]
         [PSObject]$json
     )
+    Write-Host ($json | ConvertTo-Json)
     $SvgPath = "$(Get-Location)/assets/step.svg"
     $SvgContent = Get-Content -Path $SvgPath -Raw
     $TextTags = @"
@@ -17,7 +18,9 @@ Function Set-Steps {
 Function Get-LatestSteps {
     Try {
         $Uri = $env:STEPS_URI
+        Write-Host "Uri: $Uri"
         $JsonResult = (Invoke-WebRequest -Uri $Uri).Content | ConvertFrom-Json
+        Write-Host "Steps: $($JsonResult.steps)"
         Return $JsonResult
     }
     Catch {
@@ -28,4 +31,6 @@ Function Get-LatestSteps {
     }
 }
 
+Write-Host "Getting latest steps..."
 Get-LatestSteps | Set-Steps
+Write-Host "Done!"
