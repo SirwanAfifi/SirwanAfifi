@@ -1,0 +1,19 @@
+name: Update Step Component
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  update_posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - name: Run the script for fetching my latest steps
+        shell: pwsh
+        run: |
+          . ./.github/scripts/Get-Steps.ps1
