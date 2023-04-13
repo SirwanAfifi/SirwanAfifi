@@ -3,7 +3,7 @@ Function Set-Steps {
         [Parameter(Mandatory = $true, ValueFromPipeline = $true)]
         [PSObject]$json
     )
-    $SvgPath = "$(Get-Location)../../assets/step.svg"
+    $SvgPath = "$(Get-Location)/assets/step.svg"
     $SvgContent = Get-Content -Path $SvgPath -Raw
     $TextTags = @"
     <tspan id="step-count" font-weight="bold">$([System.String]::Format("{0:n0}", [int]$json.steps))</tspan>

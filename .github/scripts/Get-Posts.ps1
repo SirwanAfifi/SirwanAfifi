@@ -20,7 +20,7 @@ Function Get-Posts {
 }
 
 Function Get-DntipsPosts {
-    $assemblyPath = "$(Get-Location)/../../deps/CodeHollow.FeedReader.dll"
+    $assemblyPath = "$(Get-Location)/deps/CodeHollow.FeedReader.dll"
     [Reflection.Assembly]::LoadFile($assemblyPath)
     $feed = [CodeHollow.FeedReader.FeedReader]::ReadAsync("https://www.dntips.ir/feed/author/%d8%b3%db%8c%d8%b1%d9%88%d8%a7%d9%86%20%d8%b9%d9%81%db%8c%d9%81%db%8c").Result
     $posts = @()
@@ -45,7 +45,7 @@ Function Set-Posts {
         [string]$marker = "## Recent Blog Posts - English"
     )
     Begin {
-        $readMePath = "$(Get-Location)../../README.md"
+        $readMePath = "./README.md"
         $readmeContents = Get-Content -Path $readMePath -Raw
         $markdownTable = "| Link | Published At |`n"
         $markdownTable += "| --- | --- |`n"
