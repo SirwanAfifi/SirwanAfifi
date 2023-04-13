@@ -45,7 +45,7 @@ Function Set-Posts {
         [string]$marker = "## Recent Blog Posts - English"
     )
     Begin {
-        $readMePath = "../../README.md"
+        $readMePath = "$(Get-Location)../../README.md"
         $readmeContents = Get-Content -Path $readMePath -Raw
         $markdownTable = "| Link | Published At |`n"
         $markdownTable += "| --- | --- |`n"
