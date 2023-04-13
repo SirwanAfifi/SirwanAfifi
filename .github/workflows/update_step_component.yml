@@ -15,5 +15,7 @@ jobs:
 
     - name: Run the script for fetching my latest steps
       shell: pwsh
+      env:
+          STEPS_URI: ${{ secrets.STEPS_URI }}
       run: |
         . ./.github/scripts/Get-Steps.ps1
