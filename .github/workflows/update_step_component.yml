@@ -19,3 +19,8 @@ jobs:
           STEPS_URI: ${{ secrets.STEPS_URI }}
       run: |
         . ./.github/scripts/Get-Steps.ps1
+    
+    - name: Commit and Push the changes
+      uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
