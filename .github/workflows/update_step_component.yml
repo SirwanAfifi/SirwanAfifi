@@ -2,7 +2,7 @@ name: Update Step Component
 
 on:
   schedule:
-    - cron: "0 19 * * *"
+    - cron: '0 5,17 * * *'
   workflow_dispatch:
 
 jobs:
