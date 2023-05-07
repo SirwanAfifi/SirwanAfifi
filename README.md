@@ -5,9 +5,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [iPhone](https://sirwan.info/blog/en/iphone-theft) | 03/04/23 |
 | [Visualising Your IoT Data](https://sirwan.info/blog/en/visualising-your-iot-data) | 18/03/23 |
 | [Different ways of adding your signature on a PDF](https://sirwan.info/blog/en/different-ways-of-adding-your-signature-on-a-pdf) | 27/11/22 |
-| [web automation](https://sirwan.info/blog/fa/web-automation) | 04/06/22 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -28,6 +28,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
