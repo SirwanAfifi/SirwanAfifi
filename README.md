@@ -5,9 +5,6 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
-| [A Quick Note](https://sirwan.info/blog/en/a-quick-note) | 07/09/23 |
-| [typechat](https://sirwan.info/blog/fa/typechat) | 18/08/23 |
-| [iPhone](https://sirwan.info/blog/en/iphone-theft) | 03/04/23 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -25,6 +22,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
