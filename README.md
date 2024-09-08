@@ -9,9 +9,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - dntips.ir
 | Link | Published At |
 | --- | --- |
-| [‫PowerShell 7.x - قسمت سیزدهم - ساخت یک Static Site Generator ساده توسط PowerShell و GitHub Actions](https://www.dntips.ir/post/3477?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-02-24-04-15) | 14/05/23 |
-| [‫PowerShell 7.x - قسمت دوازدهم - آشنایی با GitHub Actions و بررسی یک مثال](https://www.dntips.ir/post/3475?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-01-25-01-50) | 13/04/23 |
-| [‫PowerShell 7.x - قسمت یازدهم - یک مثال](https://www.dntips.ir/post/3466?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-01-16-13-05) | 05/04/23 |
+| [‫نویسنده‌ها: PowerShell 7.x - قسمت سیزدهم - ساخت یک Static Site Generator ساده توسط PowerShell و GitHub Actions](https://www.dntips.ir/post/3477?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-02-24-04-15) | 14/05/23 |
+| [‫نویسنده‌ها: PowerShell 7.x - قسمت دوازدهم - آشنایی با GitHub Actions و بررسی یک مثال](https://www.dntips.ir/post/3475?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-01-25-01-50) | 13/04/23 |
+| [‫نویسنده‌ها: PowerShell 7.x - قسمت یازدهم - یک مثال](https://www.dntips.ir/post/3466?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-01-16-13-05) | 05/04/23 |
 
 ## Recent blog posts - dev.to
 | Link | Published At |
@@ -25,6 +25,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
