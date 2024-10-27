@@ -5,9 +5,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [A Weekend with Chrome AI](https://sirwan.info/blog/en/weekend-with-chrome-ai/) | 26/10/24 |
+| [HTML Parser and Whitespace](https://sirwan.info/blog/en/html-parser-and-whitespace/) | 20/10/24 |
 | [موختەسەر لە بارەی موهیم بوون نووسین بلاگ](https://sirwan.info/blog/ku/importance-of-blogging/) | 18/10/24 |
-| [Local AI Models in Browsers (Chrome Canary)](https://sirwan.info/blog/en/local-ai-models-in-browsers/) | 09/09/24 |
-| [My Approach to Problem Solving - Blazor Version](https://sirwan.info/blog/en/my-approach-to-problem-solving-blazor-version/) | 31/07/24 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -28,6 +28,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
