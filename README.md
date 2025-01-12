@@ -5,9 +5,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [How I Use Obsidian to Publish Posts](https://sirwan.info/blog/en/how-i-use-obsidian-to-publish-posts/) | 05/01/25 |
 | [Advent of Code 2024](https://sirwan.info/blog/en/advent-of-code-2024/) | 30/11/24 |
 | [Microsoft.Extensions.AI](https://sirwan.info/blog/en/microsoft-extensions-ai/) | 14/11/24 |
-| [Git Commits as Documentation (RAG-Powered Commit Search)](https://sirwan.info/blog/en/git-commit-as-documentation/) | 02/11/24 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -28,6 +28,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
