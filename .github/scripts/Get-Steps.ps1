@@ -19,12 +19,25 @@ Function Get-LatestSteps {
     Try {
         $Uri = $env:STEPS_URI
         Write-Host "Uri: $Uri"
-        $JsonResult = (Invoke-WebRequest -Uri $Uri).Content | ConvertFrom-Json
+        
+        # Add more detailed error handling
+        $response = Invoke-WebRequest -Uri $Uri -ErrorAction Stop
+        
+        if ($response.StatusCode -ne 200) {
+            Write-Host "Unexpected status code: $($response.StatusCode)"
+            throw "Unexpected status code: $($response.StatusCode)"
+        }
+        
+        $JsonResult = $response.Content | ConvertFrom-Json
         Write-Host "Steps: $($JsonResult.steps)"
         Return $JsonResult
     }
     Catch {
-        Write-Host "Error: $($_.Exception.Message) - $($Uri)"
+        Write-Host "Error Details:"
+        Write-Host "Status Code: $($_.Exception.Response.StatusCode.value__)"
+        Write-Host "Status Description: $($_.Exception.Response.StatusDescription)"
+        Write-Host "Message: $($_.Exception.Message)"
+        
         Return @{
             steps = 0
             date  = Get-Date -Format "yyyy-MM-dd"
