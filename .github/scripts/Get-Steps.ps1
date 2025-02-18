@@ -24,6 +24,7 @@ Function Get-LatestSteps {
         Return $JsonResult
     }
     Catch {
+        Write-Host "Error: $($_.Exception.Message)"
         Return @{
             steps = 0
             date  = Get-Date -Format "yyyy-MM-dd"
