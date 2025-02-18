@@ -20,17 +20,22 @@ Function Get-LatestSteps {
         $Uri = $env:STEPS_URI
         Write-Host "Uri: $Uri"
         
-        # Define headers that Cloudflare expects
+        # Set headers to match the Worker's expectations
         $headers = @{
             'Accept' = 'application/json'
-            'User-Agent' = 'GitHub-Action-Steps-Counter'
-            'CF-IPCountry' = 'US'  # Optional, but can help
+            'Content-Type' = 'application/json'
         }
 
-        $response = Invoke-WebRequest -Uri $Uri -Headers $headers -UseBasicParsing
-        $JsonResult = $response.Content | ConvertFrom-Json
-        Write-Host "Steps: $($JsonResult.steps)"
-        Return $JsonResult
+        # Make the request
+        $response = Invoke-WebRequest -Uri "$Uri/steps" -Headers $headers -Method GET -UseBasicParsing
+        
+        if ($response.StatusCode -eq 200) {
+            $JsonResult = $response.Content | ConvertFrom-Json
+            Write-Host "Steps: $($JsonResult.steps)"
+            Return $JsonResult
+        } else {
+            throw "Unexpected status code: $($response.StatusCode)"
+        }
     }
     Catch {
         Write-Host "Error Details:"
