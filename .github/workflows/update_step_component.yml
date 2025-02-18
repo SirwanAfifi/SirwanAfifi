@@ -18,7 +18,7 @@ jobs:
       env:
           STEPS_URI: ${{ secrets.STEPS_URI }}
       run: |
-        echo ${{ secrets.STEPS_URI }}
+        $env:STEPS_URI = "${{ secrets.STEPS_URI }}"
         . ./.github/scripts/Get-Steps.ps1
     
     - name: Commit and Push the changes
