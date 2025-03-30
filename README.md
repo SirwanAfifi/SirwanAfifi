@@ -5,9 +5,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [How I Use Back Tap and Shortcuts to Capture Info on My iPhone](https://sirwan.info/blog/en/how-i-use-back-tap-and-shortcuts-to-capture-info-on-my-iphone/) | 16/03/25 |
 | [ترندهای تکنولوژی در سال ۲۰۲۵](https://sirwan.info/blog/fa/tech-trends-2025/) | 18/01/25 |
 | [Turning Notes into Knowledge](https://sirwan.info/blog/en/turning-notes-into-knowledge/) | 12/01/25 |
-| [How I Use Obsidian to Publish Posts](https://sirwan.info/blog/en/how-i-use-obsidian-to-publish-posts/) | 05/01/25 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -28,6 +28,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
