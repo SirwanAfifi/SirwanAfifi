@@ -5,9 +5,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [Learning Without Shortcuts](https://sirwan.info/blog/en/learning-without-shortcuts/) | 13/09/25 |
 | [Sending Code from VS Code to Obsidian](https://sirwan.info/blog/en/weekend-project-code-clipper/) | 26/05/25 |
 | [How I Use Back Tap and Shortcuts to Capture Info on My iPhone](https://sirwan.info/blog/en/how-i-use-back-tap-and-shortcuts-to-capture-info-on-my-iphone/) | 16/03/25 |
-| [ترندهای تکنولوژی در سال ۲۰۲۵](https://sirwan.info/blog/fa/tech-trends-2025/) | 18/01/25 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -28,6 +28,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
