@@ -5,16 +5,13 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [When Apple Podcasts Went Empty (Again)](https://sirwan.info/blog/en/when-apple-podcasts-went-empty-again/) | 20/12/25 |
 | [Learning Without Shortcuts](https://sirwan.info/blog/en/learning-without-shortcuts/) | 13/09/25 |
 | [Sending Code from VS Code to Obsidian](https://sirwan.info/blog/en/weekend-project-code-clipper/) | 26/05/25 |
-| [How I Use Back Tap and Shortcuts to Capture Info on My iPhone](https://sirwan.info/blog/en/how-i-use-back-tap-and-shortcuts-to-capture-info-on-my-iphone/) | 16/03/25 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
 | --- | --- |
-| [‫نویسنده‌ها: PowerShell 7.x - قسمت سیزدهم - ساخت یک Static Site Generator ساده توسط PowerShell و GitHub Actions](https://www.dntips.ir/post/3477?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-02-24-04-15) | 14/05/23 |
-| [‫نویسنده‌ها: PowerShell 7.x - قسمت دوازدهم - آشنایی با GitHub Actions و بررسی یک مثال](https://www.dntips.ir/post/3475?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-01-25-01-50) | 13/04/23 |
-| [‫نویسنده‌ها: PowerShell 7.x - قسمت یازدهم - یک مثال](https://www.dntips.ir/post/3466?utm_source=feed&utm_medium=rss&utm_campaign=featured&utm_updated=1402-01-16-13-05) | 05/04/23 |
 
 ## Recent blog posts - dev.to
 | Link | Published At |
@@ -28,6 +25,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
