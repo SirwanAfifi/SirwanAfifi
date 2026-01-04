@@ -5,9 +5,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [TIL: Gemini CLI Now Has Agent Skills](https://sirwan.info/blog/en/gemini-cli-agent-skills/) | 01/01/26 |
 | [When Apple Podcasts Went Empty (Again)](https://sirwan.info/blog/en/when-apple-podcasts-went-empty-again/) | 20/12/25 |
 | [Learning Without Shortcuts](https://sirwan.info/blog/en/learning-without-shortcuts/) | 13/09/25 |
-| [Sending Code from VS Code to Obsidian](https://sirwan.info/blog/en/weekend-project-code-clipper/) | 26/05/25 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -25,6 +25,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
