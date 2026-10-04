@@ -5,9 +5,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Recent blog posts - sirwan.info
 | Link | Published At |
 | --- | --- |
+| [Teaching a Cardputer to Recognise Kurdish Numbers](https://sirwan.info/blog/en/teaching-a-cardputer-to-recognise-kurdish-numbers/) | 01/10/26 |
 | [A Dev-Only Permission Inspector Built on React Fiber](https://sirwan.info/blog/en/permission-inspector-react-fiber/) | 26/06/26 |
 | [TIL: Kotlin's Generics Syntax Is a Pragmatic Compiler Trade-off](https://sirwan.info/blog/en/kotlin-generics-syntax/) | 22/02/26 |
-| [TIL: Using Homebridge to Add Non-HomeKit Devices to Apple Home](https://sirwan.info/blog/en/homebridge/) | 08/02/26 |
 
 ## Recent blog posts - dntips.ir
 | Link | Published At |
@@ -25,6 +25,9 @@ I'm Sirwan Afifi, A senior software developer, Skilled in developing Web Applica
 ## Today's Activity
 
 <img src="./assets/step.svg" width="400px">
+
+
+
 
 
 
